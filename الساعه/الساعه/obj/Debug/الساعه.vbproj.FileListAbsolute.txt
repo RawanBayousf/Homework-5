@@ -1,0 +1,11 @@
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\bin\Debug\الساعه.exe.config
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\bin\Debug\الساعه.exe
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\bin\Debug\الساعه.pdb
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\bin\Debug\الساعه.xml
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\الساعه.vbprojResolveAssemblyReference.cache
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\الساعه.vbproj.GenerateResource.Cache
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\الساعه.exe
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\الساعه.xml
+C:\Users\Mona\Documents\Visual Studio 14\Projects\الساعه\الساعه\obj\Debug\الساعه.pdb
